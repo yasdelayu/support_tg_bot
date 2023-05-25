@@ -10,8 +10,3 @@
 # Как настроить бота (Видео):
 https://youtu.be/eclJgmpxFDI
 
-
-# Связь со мной
-Дискорд: m3dv3ed#0068
-
-Тг: @nosemka
